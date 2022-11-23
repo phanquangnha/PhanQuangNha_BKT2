@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786461656077",
+    "firebase_url": "https://phanquangnhabaikt2-default-rtdb.firebaseio.com",
+    "project_id": "phanquangnhabaikt2",
+    "storage_bucket": "phanquangnhabaikt2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786461656077:android:1f3a8a10e9e45914adc144",
+        "android_client_info": {
+          "package_name": "com.example.phanquangnha_bkt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786461656077-o8gu068jdritp0d4o06ug5hug0f5rquj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jp3jFxZ7BMs1ZdC8mANpunChHQaL1CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786461656077-o8gu068jdritp0d4o06ug5hug0f5rquj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
